@@ -79,7 +79,7 @@ pipeline-rest-api:latest
 pipeline-stage-step:latest
 pipeline-stage-tags-metadata:latest
 pipeline-stage-view:latest
-pipeline-utility-steps:latest
+pipeline-utility-steps:2.10.0
 plain-credentials:latest
 pubsub-light:latest
 scm-api:latest
@@ -105,3 +105,4 @@ workflow-scm-step:latest
 workflow-step-api:latest
 workflow-support:latest
 ws-cleanup:latest
+Job DSL:1.78.1
