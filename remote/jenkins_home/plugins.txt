@@ -105,4 +105,6 @@ workflow-scm-step:latest
 workflow-step-api:latest
 workflow-support:latest
 ws-cleanup:latest
-Job DSL:1.78.1
+job-dsl:1.78.1
+multibranch-webhook-trigger:1.0.9
+subversion:2.15.0
